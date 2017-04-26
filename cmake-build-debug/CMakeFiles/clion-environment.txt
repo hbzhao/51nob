@@ -1,0 +1,2 @@
+ToolSet: 2.7.0@M:\Cygwin
+CMake: 3.6.3@M:\jetbrain\apps\CLion\ch-0\163.13906.23\bin\cmake_cygwin\bin\cmake.exe

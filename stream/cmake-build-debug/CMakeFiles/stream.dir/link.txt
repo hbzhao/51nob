@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/stream.dir/main.cpp.o  -o stream.exe -Wl,--out-implib,libstream.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

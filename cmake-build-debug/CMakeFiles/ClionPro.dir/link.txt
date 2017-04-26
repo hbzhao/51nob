@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/ClionPro.dir/1018.cpp.o  -o ClionPro.exe -Wl,--out-implib,libClionPro.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
